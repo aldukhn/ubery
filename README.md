@@ -4,6 +4,7 @@
 **1 - Project**
 1 - Open the Project in your android studio;
 2 - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
 **2 - Firebase Panel**
 1 - Create Firebase Project (https://console.firebase.google.com/);
 2 - import the file google-service.json into your project as the instructions say;
@@ -16,6 +17,7 @@
 2 - Activate google Maps API
 3 - Activate google Places API
 4 - Add google maps API key to the res/values/Strings.xml file in the string google_maps_key
+
 **4 - PayPal**
 1 - Install Node.js. Check my video to see how it is done (https://www.youtube.com/watch?v=nLxH15a4-6g&list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd&index=42);
 2 - go to paypal developer and create an app;
